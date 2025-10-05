@@ -24,6 +24,8 @@ Flask on Cloud VM
 
 ### Videos
 
+(Videos was split up due to Loom only allowing 5min max per video)
+
 Part 1. [Setting up VM](https://www.loom.com/share/71909e7d5ac94c929d0c92056039dcc2?sid=4ccfe613-e3a2-45be-aadf-5a5389f64c19)
 
 Part 2. [Environment Configuration](https://www.loom.com/share/b7348c75450a47829667c2f4c3590a35?sid=247d7d09-ddc0-4b81-b63f-011383cfd94f)
